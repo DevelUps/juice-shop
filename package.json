@@ -1,6 +1,10 @@
 {
   "name": "juice-shop",
+<<<<<<< HEAD
   "version": "17.1.1",
+=======
+  "version": "17.0.0",
+>>>>>>> 4258317c36be5045e9ced3b74e77b33f9f88f79a
   "private": true,
   "description": "Probably the most modern and sophisticated insecure web application",
   "keywords": [
